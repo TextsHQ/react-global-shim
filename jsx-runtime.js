@@ -1,2 +1,2 @@
-module.exports = texts.ReactJSXRuntime
-module.exports.default = texts.ReactJSXRuntime
+module.exports = texts.ReactJSXRuntime || {}
+module.exports.default = texts.ReactJSXRuntime || {}
